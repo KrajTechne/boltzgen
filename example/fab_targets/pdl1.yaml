@@ -1,6 +1,6 @@
 entities:
     - file:
-        path: 7uxq.cif
+        path: 7UXQ.cif
         include:
             - chain:
                 id: A

@@ -1,0 +1,9 @@
+entities:
+    - file:
+        path: 7UXQ.cif
+        include:
+            - chain:
+                id: A
+    - file:
+        path:
+            - ../fab_scaffolds/tralokinumab.5l6y.yaml
